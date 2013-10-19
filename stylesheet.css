@@ -1,0 +1,26 @@
+#header{
+	text-align: center;
+	font-size: 3em;
+	font-family: Courier;
+}
+
+#footer{
+	font-size: 3em;
+}
+.section{
+	font-size: 1.5em;
+	background-color: #8894B5;
+	border-radius: 25px;
+}
+
+body{
+	font-family: courier;
+	background-color: #7782A1;
+}
+p{
+	background-color: #8894B5;
+	border-radius: 25px; 
+}
+h4{
+	text-align: center;
+}
